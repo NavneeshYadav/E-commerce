@@ -24,7 +24,7 @@ const FeaturedProducts = ({ type }) => {
       title: "Coat",
       oldPrice: 19,
       price: 12,
-      img: "https://images.pexels.com/photos/1759622/pexels-photo-1972115.jpeg?auto=compress&cs=tinys rgb&w=1600",
+      img: "https://images.pexels.com/photos/1759622/pexels-photo-1759622.jpeg?auto=compress&cs=tinys rgb&w=1600",
       isNew: true,
     },
     {
@@ -33,7 +33,7 @@ const FeaturedProducts = ({ type }) => {
       oldPrice: 19,
       price: 12,
       img: "https://images.pexels.com/photos/1457983/pexels-photo-1457983.jpeg?auto=compress&cs=tinys rgb&w=1600",
-      isNew: true,
+      isNew: false,
     },
     {
       id: 4,
@@ -41,7 +41,7 @@ const FeaturedProducts = ({ type }) => {
       oldPrice: 19,
       price: 12,
       img: "https://images.pexels.com/photos/2065200/pexels-photo-2065200.jpeg?auto=compress&cs=tinys rgb&w=1600",
-      isNew: true,
+      isNew: false,
     },
   ];
 

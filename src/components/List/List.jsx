@@ -17,7 +17,7 @@ const List = () => {
       title: "Coat",
       oldPrice: 19,
       price: 12,
-      img: "https://images.pexels.com/photos/1759622/pexels-photo-1972115.jpeg?auto=compress&cs=tinys rgb&w=1600",
+      img: "https://images.pexels.com/photos/1759622/pexels-photo-1759622.jpeg?auto=compress&cs=tinys rgb&w=1600",
       isNew: true,
     },
     {
